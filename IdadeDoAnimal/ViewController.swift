@@ -1,5 +1,5 @@
 //
-//  Created by Nayanne Sant'Ana on 06/06/22.
+// Created by Nayanne Sant'Ana
 //
 
 import UIKit
